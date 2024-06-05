@@ -27,7 +27,7 @@ Getting Started
 To run the Quizventure game locally,follow steps:
 
 Clone this repository to your local machine using 'git clone'
-[
+
 git clone https://github.com/MahadevaSneha/QuizVenture.git
 
 Navigate to the project directory.
