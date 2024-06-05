@@ -1,4 +1,4 @@
-QuizVenture
+ QuizVenture
 ------------
 QuizVenture is a quiz game built with HTML,CSS,and JavaScript.
 
@@ -18,15 +18,17 @@ Responsive design for both desktop and mobile devices.
 
 Technologies Used
 -----------------
-HTML - Hyper Text Markup Language CSS - Cascading Style Sheet JS - JavaScript
+HTML - Hyper Text Markup Language
+CSS - Cascading Style Sheet 
+JS - JavaScript
 
 Getting Started
 ---------------
 To run the Quizventure game locally,follow steps:
 
 Clone this repository to your local machine using 'git clone'
-
-git clone https://github.com/MahadevaSneha/QuizVenture_CA2.git
+[
+git clone https://github.com/MahadevaSneha/QuizVenture.git
 
 Navigate to the project directory.
 
